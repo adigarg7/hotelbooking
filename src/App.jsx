@@ -6,6 +6,7 @@ const App = () => {
   return (
     <div>
       {!isOwnerPath && <Navbar />}
+      <Home></Home>
     </div>
   )
 }
