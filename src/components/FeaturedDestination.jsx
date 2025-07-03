@@ -1,6 +1,6 @@
 import React from 'react'
 import { roomsDummyData } from '../assets/assets'
-import HotelCard from './HotelCard'
+import HotelCard from './Hotelcard'
 import Title from './Title'
 import { useNavigate } from 'react-router-dom';
 
