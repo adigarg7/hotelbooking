@@ -29,5 +29,4 @@ const HotelCard = ({room, index}) => {
     </Link>
   )
 }
-
 export default HotelCard
